@@ -1,10 +1,8 @@
 module.exports = {
-
     config: { 
-	fontFamily: "Menlo"
+	    fontFamily: "Menlo"
     },
     plugins: [
-    "hypersnazzy"
-	      ]
-
+        "hyper-snazzy"
+    ]
 };
